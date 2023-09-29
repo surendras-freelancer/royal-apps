@@ -44,14 +44,14 @@ DB_PASSWORD=your_database_password
 
 ## Database Migration
 
-1. Migrate Database
+1. Migrate Database run below command
 
 php artisan migrate
 
 
 ## Start Project 
 
-1. Start the server
+1. Start the server run below command
 
 php artisan serve
 
