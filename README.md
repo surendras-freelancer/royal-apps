@@ -54,8 +54,13 @@ php artisan serve
 ## Login Details
 
 Email : ahsoka.tano@royal-apps.io
+
 Password : Kryze4President
 
 ## Add new author via CLI
 
-php artisan add:new_author
+1. php artisan add:new_author
+
+2. Note: Author Birthday Date Format DD-MM-YYYY
+
+
