@@ -17,16 +17,6 @@ To get started with this Laravel project, follow these steps:
 git clone https://github.com/surendras-freelancer/royal-apps.git candidate-app
 cd candidate-app
 
-
-## Installation
-
-To get started with this Laravel project, follow these steps:
-
-1. Clone the repository to your local:
-
-git clone https://github.com/surendras-freelancer/royal-apps.git candidate-app
-cd candidate-app
-
 2. Install project dependencies
 
 composer install
@@ -36,10 +26,15 @@ composer install
 4. Configure your database connection in the .env file:
 
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=your_database_name
+
 DB_USERNAME=your_database_username
+
 DB_PASSWORD=your_database_password
 
 ## Database Migration
