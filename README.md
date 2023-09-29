@@ -15,6 +15,7 @@ To get started with this Laravel project, follow these steps:
 1. Clone the repository to your local:
 
 git clone https://github.com/surendras-freelancer/royal-apps.git candidate-app
+
 cd candidate-app
 
 2. Install project dependencies
